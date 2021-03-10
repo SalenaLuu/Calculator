@@ -1,0 +1,59 @@
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\Sarah Lena\source\repos\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.cache
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.lref
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.g.resources
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
+C:\Users\Sarah Lena\source\repos\CalculatorApp\obj\Debug\netcoreapp3.1\App.baml
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Software-Development\calculator-app-master\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.cache
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.lref
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\App.baml
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.g.resources
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Software-Development\calculator-app-master\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Software-Development\Csharp\calculator\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.cache
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp_MarkupCompile.lref
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\App.baml
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.g.resources
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+F:\Software-Development\Csharp\calculator\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
